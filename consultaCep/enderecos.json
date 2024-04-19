@@ -1,0 +1,20 @@
+[
+  {
+    "cep": "13432-100",
+    "endereco": "Rua José Ferreira Filho",
+    "complemento": "de 1/2 ao fim",
+    "bairro": "Jardim Itaiçaba (Ártemis)",
+    "cidade": "Piracicaba",
+    "estado": "SP",
+    "ddd": 19
+  },
+  {
+    "cep": "13401-090",
+    "endereco": "Avenida do Café",
+    "complemento": "",
+    "bairro": "Paulista",
+    "cidade": "Piracicaba",
+    "estado": "SP",
+    "ddd": 19
+  }
+]
